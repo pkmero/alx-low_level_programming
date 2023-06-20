@@ -1,3 +1,7 @@
+#ifndef MAIN_H
+#define MAIN_H
+#include <stdio.h>
+
 /**
  * main - Entry point
  * Description: print alphabit used to print alphabet in lower case with new line
